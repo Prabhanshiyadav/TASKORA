@@ -99,6 +99,20 @@ Export filtered task information to CSV.
 
 ---
 
+## 🧭 Command Center
+**Screenshot: `Command center.png`**
+
+![Command Center](screenshots/Command center.png)
+
+---
+
+## ➕ Add Task
+**Screenshot: `add task.png`**
+
+![Add Task](sscreenshots/add task.png)
+
+---
+
 ## 📋 Smart Tasks
 **Screenshot: `Smart task.png`**
 
@@ -106,12 +120,6 @@ Export filtered task information to CSV.
 
 ---
 
-## ➕ Add Task
-**Screenshot: `add task.png`**
-
-![Add Task](screenshots/add task.png)
-
----
 
 ## 🗂️ Kanban Board
 **Screenshot: `Kanban board.png`**
@@ -137,7 +145,7 @@ Export filtered task information to CSV.
 ## 🤖 AI Assistant
 **Screenshot: `AI Assistant.png`**
 
-![AI Assistant](screenshots/AI Assistant.png)
+![AI Assistant](sscreenshots/AI Assistant.png)
 
 ---
 
@@ -148,10 +156,7 @@ Export filtered task information to CSV.
 
 ---
 
-## 🧭 Command Center
-**Screenshot: `Command center.png`**
 
-![Command Center](screenshots/Command center.png)
 
 
 🧭 Command Center / Task Management
