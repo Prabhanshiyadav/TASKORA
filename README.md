@@ -91,68 +91,75 @@ Receive visual feedback and task-related system notifications.
 Export filtered task information to CSV.
 
 🖥️ Application Screenshots
+## 🏠 Home Page
 
-## 🏠 Command Center
-**Screenshot: `home.png`**
+**Screenshot:** `home.png`
 
-![TASKORA Command Center](screenshots/home.png)
+![Home Page](screenshots/home.png)
 
 ---
 
 ## 🧭 Command Center
-**Screenshot: `Command center.png`**
 
-![Command Center](screenshots/Command center.png)
+**Screenshot:** `Command center.png`
+
+![Command Center](screenshots/Command%20center.png)
 
 ---
 
 ## ➕ Add Task
-**Screenshot: `add task.png`**
 
-![Add Task](sscreenshots/add task.png)
+**Screenshot:** `add task.png`
+
+![Add Task](screenshots/add%20task.png)
 
 ---
 
 ## 📋 Smart Tasks
-**Screenshot: `Smart task.png`**
 
-![Smart Tasks](screenshots/Smart task.png)
+**Screenshot:** `Smart task.png`
+
+![Smart Tasks](screenshots/Smart%20task.png)
 
 ---
 
-
 ## 🗂️ Kanban Board
-**Screenshot: `Kanban board.png`**
 
-![Kanban Board](screenshots/Kanban board.png)
+**Screenshot:** `Kanban board.png`
+
+![Kanban Board](screenshots/Kanban%20board.png)
 
 ---
 
 ## 🎯 Focus Mode
-**Screenshot: `Focus Mode.png`**
 
-![Focus Mode](screenshots/Focus Mode.png)
+**Screenshot:** `Focus Mode.png`
+
+![Focus Mode](screenshots/Focus%20Mode.png)
 
 ---
 
 ## 📊 Analytics
-**Screenshot: `Analytics.png`**
+
+**Screenshot:** `Analytics.png`
 
 ![Analytics](screenshots/Analytics.png)
 
 ---
 
 ## 🤖 AI Assistant
-**Screenshot: `AI Assistant.png`**
 
-![AI Assistant](sscreenshots/AI Assistant.png)
+**Screenshot:** `AI Assistant.png`
+
+![AI Assistant](screenshots/AI%20Assistant.png)
 
 ---
 
 ## 🎨 Theme Customization
-**Screenshot: `Theme.png`**
 
-![Theme](screenshots/Theme.png)
+**Screenshot:** `Theme.png`
+
+![Theme Customization](screenshots/Theme.png)
 
 ---
 
